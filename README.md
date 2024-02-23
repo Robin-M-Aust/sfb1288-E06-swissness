@@ -1,6 +1,6 @@
 # sfb1288-E06-swissness
 
-The first part of the table contains columns with data automatically identified by the algorithm as well as utilitary annotations.
+**The first part of the table contains columns with data automatically identified by the algorithm as well as utilitary annotations.**
 
 - SentenceID: Automatically generated, increasing number. Used to refer to the sentence internally.
 
@@ -30,22 +30,34 @@ The first part of the table contains columns with data automatically identified 
 
 - comment: defaults to NONE, but can be filled with comments regarding the sentence, process, etc.
 
-The second part of the table applies our taxonomy of textual practices of comparing, based on the CRCs system (see Epple et al 2020, 11-17) and the INF-projects tagset as well as our own exploration and reconfiguration. This part is filled manually by our annotators, but could later on also be prefilled by the algorithm based on certain features attributed to the identified vocabulary.
+
+**The second part of the table applies our taxonomy of textual practices of comparing, based on the CRCs system (see Epple et al 2020, 11-17) and the INF-projects tagset as well as our own exploration and reconfiguration. This part is filled manually by our annotators, but could later on also be prefilled by the algorithm based on certain features attributed to the identified vocabulary.**
 
 - compCOMPARATUM_S_Entity: defaults to NONE. Used to annotate the general nation, community, person that is the first comparatum in the comparison if the comparison refers to Switzerland (Schweiz, Zürich, Romandie, Haller, …). Important: in the case of our project, if the sentence talks about Switzerland, it is always the first comparatum S.
 
 - compCOMPARATUM_S_Level: defaults to NONE. Used to annotate on which ›level‹ of the Entity the comparison is aimed, if the comparison refers to Switzerland: do the actors compare the beautiful landscape of the Romandie, or Switzerlands progressive government, or a certain text or author from Zürich? Levels currently identified by explorative analysis are
-country
-author
-city
-government
-people
-landscape
-language
-literature
-science
-text
-community
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;country
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;city
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;government
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;people
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;landscape
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;language
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;literature
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;community
 
 - compCOMPARATUM_[A...X]_Entity: used for the first, second, third, ... comparatum that is not Switzerland (Great Britain, Bavaria, Paris, Thomas Bernhard, …). If there are more than two comparata used in a certain comparison, those can be added as columns at the end of the table in similar fashion.
 
