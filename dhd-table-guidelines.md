@@ -1,3 +1,4 @@
+(deprecated due to updated project)
 The table contains columns with data automatically identified by the algorithm, as well as manual annotations. It applies our taxonomy of textual practices of comparing, based on the CRCs system (see Epple et al 2020, 11-17) and the INF-projects tagset as well as our own exploration and reconfiguration.
 
 - SentenceID: Automatically generated, increasing number. Used to refer to the sentence internally.
