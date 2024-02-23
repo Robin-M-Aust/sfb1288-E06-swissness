@@ -1,6 +1,8 @@
 # sfb1288-E06-swissness
 
-**The first part of the table contains columns with data automatically identified by the algorithm as well as utilitary annotations.**
+v.1.0
+
+This file contains guidelines on how to annotate the output table of our main project. **The first part of the table contains columns with data automatically identified by the algorithm as well as utilitary annotations.**
 
 - SentenceID: Automatically generated, increasing number. Used to refer to the sentence internally.
 
