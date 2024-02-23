@@ -68,49 +68,87 @@
 2_temporal: for comparisons that employ temporal markers (früher vs später, heute vs damals, seasons, ...)
 3_concept: additional category for comparisons that employ neither spatial nor temporal markers (such as when comparing ideologies, poetics, etc that are not directly associated with a certain point in space or time or a marker of temporality/spatiality)
 - compTERTIUM: defaults to NONE. Can be freely filled by the annotators with the tertia used/created to compare two comparata. Tertia currently identified by explorative analysis are
+
 age,
+
 autonomy,
+
 beauty,
+
 centrality,
+
 complexity,
+
 creativity,
+
 diversity,
+
 greatness,
+
 language,
+
 mentality,
+
 relevance,
+
 size.
 
 - compRELATION: defaults to NONE, can be filled with the value most fitting to the relation expressed in the statement. Important: in the case of our project, if the sentence talks about Switzerland, it is always the first comparatum (comparatum S). Can often be derived from adjComparative or adjSuperlative.
+
 1_S most
+
 2_S more than X
+
 3_neutral
+
 4_S similar to X
+
 5_S less than X
+
 6_S least
+
 7_incomparable
 
 - compVALUATION: defaults to NONE. Similar to Relation, but used if the sentence contains an explicit valuation. 
+
 1_S best
+
 2_S better than X
+
 3_neutral
+
 4_S similar to X
+
 5_S worse than X
+
 6_S worst
+
 7_incomparable
 
 - compTEMPORALITY: defaults to NONE. the temporal range that might be implied in a comparison: Switzerland might be depicted as the most progressive country forever, or german authors as the currently least creative writers, and so on.
+
 1_always
+
 2_future
+
 3_present
+
 4_sometimes
+
 5_past
+
 6_never
 
 - compEXPLICITNESS: defaults to NONE. Can be filled with different values that align with the five grades of explicitness proposed by the CRC (see Davy et al 2019, 15-16) as well as a sixth additional one for metaphorical, symbolic, etc comparisons we found necessary.
+
 1_stated: for comparisons in which actors explicitly state that they are comparing (›I compare A to B‹)
+
 2_marked: for comparisons that use language that indicates a comparison (›A is bigger than B‹)
+
 3_juxtaposed: for sentences in which the comparison is implied by the juxtaposition of different statements (›here‹ vs ›there‹, ›now‹ vs. ›back then‹)
+
 4_context: for sentences that do not use any language evoking comparison in the reader, but that might be considered as such due to their context.
+
 5_zero: for statements about comparata, tertia, etc. that may appear random and without context, but due to their positioning against each other might still be interpreted as part of a comparison by the reader.
+
 6_meta: an additional category used for statements about a comparatum that might evoke comparison via/on a metaphorical, symbolical, allegorical level.
