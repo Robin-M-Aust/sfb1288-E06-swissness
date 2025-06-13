@@ -1,5 +1,8 @@
 # Swiss Core Corpus - Literary Histories (CHCoCoLitH)
 
+Robin-M. Aust (Universität Bielefeld) & Berenike Herrmann (Universität Bielefeld)
+
+
 v.0.1
 
 This repository contains the preliminary version of the Swiss Core Corpus (ChCoCo). Currently, the corpus contains the following swiss literary histories.
