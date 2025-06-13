@@ -26,4 +26,4 @@ This repository contains the preliminary version of the Swiss Core Corpus (ChCoC
 | 1943 | Korrodi | _Geisteserbe der Schweiz. Schriften von Albrecht von Haller bis zur Gegenwart_ | Zürich, Rentsch |
 | 1951 | Zäch | _Die Dichtung der deutschen Schweiz_ | Zürich, Speer |
 
-For further information on creation and analysis of this corpus, see, among others Aust, Robin-M. & Herrmann, Berenike: Vergleichspraktiken in der Genese, Verstetigung und Transformation von ‚Nationalliteratur‘, in: Oberauer, Norbert (Hrsg.): Potenziale des Komparativen \[working title\] (Literatur und Recht 10), Heidelberg 2024 \[in preparation\].
+For further information on creation and analysis of this corpus, see, among others Aust, Robin-M. & Herrmann, Berenike: Vergleichspraktiken in der Genese, Verstetigung und Transformation von ‚Nationalliteratur‘, in: Oberauer, Norbert (Hrsg.): Potenziale des Komparativen \[working title\] (Literatur und Recht 10), Heidelberg 2025 \[in preparation\].
