@@ -10,7 +10,7 @@ This repository contains the preliminary version of the Swiss Core Corpus (ChCoC
 | Year | Author | Title | Publisher | 
 |--|--|--|--|
 | 1861 | Mörikofer |_Die Schweizerische Literatur des achtzehnten Jahrhunderts_ | Leipzig, Hirzel |
-| 1866 | Weber| _Die poetische Nationalliteratur der deutschen Schweiz; Musterstücke aus den Dichtungen der besten schweizerischen Schriftsteller von Haller bis auf die Gegenwart, mit biographischen und kritischen Einleitungen_ | Glarus, Vogel |
+| 1866 | Weber| _Die poetische Nationalliteratur der deutschen Schweiz_ | Glarus, Vogel |
 | 1892 | Bächtold | _Geschichte der deutschen Literatur in der Schweiz_ | Frauenfeld, Huber |
 | 1910 | Jenny/Rossel | _Geschichte der schweizerischen Literatur_ | Bern, Francke |
 | 1914 | Frey | _Schweizer Dichter_ | Leipzig, Quelle & Meyer  | 
