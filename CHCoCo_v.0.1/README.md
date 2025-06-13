@@ -5,7 +5,7 @@ Robin-M. Aust (Universität Bielefeld) & Berenike Herrmann (Universität Bielefe
 
 v.0.1
 
-This repository contains the preliminary version of the Swiss Core Corpus (ChCoCo). Currently, the corpus contains the following swiss literary historical monographs.
+This repository contains the preliminary version of the Swiss Core Corpus (ChCoCo), subcorpus "Literary Histories". Currently, the corpus contains the following swiss literary historical monographs.
 
 | Year | Author | Title | Publisher | 
 |--|--|--|--|
