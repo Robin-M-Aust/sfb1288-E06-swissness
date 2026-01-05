@@ -155,6 +155,8 @@ This file contains guidelines on how to annotate the output table of our main pr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6_meta: an additional category used for statements about a comparatum that might evoke comparison via/on a metaphorical, symbolical, allegorical level.
 
-**Publications using the annotation guidelines**
+**Related Publications**
 
 - Aust, R.-M., Herrmann, J.B. (accepted). Vergleichspraktiken in der Genese, Verstetigung und Transformation von ‚Nationalliteratur’. Ein Forschungswerkstattbericht zum ‚Fall Deutschschweiz’. Tagungsband „Potenziale des Komparativen, SFB 1385 Recht und Literatur“, J.B. Metzler.
+- Aust, R.-M., Kababgi, D., Herrmann, B. (2024). Towards a Method for Automatic Detection of Textual Comparisons. A DH-Case Study on the Construction of "Swissness". In Book of Abstracts Annual Conference “Digital Humanities im Deutschsprachigen Raum“ (DHd). DHd2024 Passau, D. https://zenodo.org/records/10698200
+
