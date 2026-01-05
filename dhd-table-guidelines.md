@@ -30,3 +30,6 @@ Examples:
 
 - Comment: Can be manually filled with comments. Should be filled with “delete” if the line should be deleted from the annotations, but can also be used to mark interesting sentences for closer analysis (“interesting”) or cases where the annotation is unclear (“unclear”) as well as other comments.
 
+**Publiations using the guidelines**
+
+- Aust, R.-M., Kababgi, D., Herrmann, B. (2024). Towards a Method for Automatic Detection of Textual Comparisons. A DH-Case Study on the Construction of "Swissness". In Book of Abstracts Annual Conference “Digital Humanities im Deutschsprachigen Raum“ (DHd). DHd2024 Passau, D. https://zenodo.org/records/10698200
