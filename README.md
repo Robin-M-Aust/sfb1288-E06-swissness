@@ -154,3 +154,7 @@ This file contains guidelines on how to annotate the output table of our main pr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5_zero: for statements about comparata, tertia, etc. that may appear random and without context, but due to their positioning against each other might still be interpreted as part of a comparison by the reader.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6_meta: an additional category used for statements about a comparatum that might evoke comparison via/on a metaphorical, symbolical, allegorical level.
+
+**Publications using the annotation guidelines**
+
+- Aust, R.-M., Herrmann, J.B. (accepted). Vergleichspraktiken in der Genese, Verstetigung und Transformation von ‚Nationalliteratur’. Ein Forschungswerkstattbericht zum ‚Fall Deutschschweiz’. Tagungsband „Potenziale des Komparativen, SFB 1385 Recht und Literatur“, J.B. Metzler.
